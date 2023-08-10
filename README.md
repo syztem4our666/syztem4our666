@@ -12,13 +12,9 @@
 #### - Hobbies : 
 - ✨ Ham Radio
 - ✨ Satelites and Space
-
-
 </br>
 </br>
 </br>
-
-
 
 #### Languages & Tools 👨‍💻 🛠:
 </br>
@@ -36,14 +32,8 @@
 </br>
 </br>
 
-
-
 #### Social Media :
 [![Twitter Badge](https://img.shields.io/badge/-@syztem4our666-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/syztem4our666)](https://twitter.com/syztem4our666)
-
-
-
-
 
 ![syztem4our666's GitHub stats](https://github-readme-stats.vercel.app/api?username=syztem4our666&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syztem4our666&layout=compact)
