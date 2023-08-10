@@ -11,7 +11,7 @@
 
 #### - Hobbies : 
 - ✨ Ham Radio
-- ✨ Satelites and Space
+- ✨ Satellites and Space
 
 #### Languages & Tools 👨‍💻 🛠:
 </br>
