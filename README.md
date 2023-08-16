@@ -2,7 +2,7 @@
 
 #### About ME 💬 :
 
-#### - I'm 22 years WhiteHat and Cybersecurity Enthusiast from Spain.
+#### - I'm 22 years Cybersecurity Enthusiast from Spain.
 
 #### - Learning :
 - ✨ Bash
