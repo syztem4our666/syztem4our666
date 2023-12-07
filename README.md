@@ -1,10 +1,12 @@
 <h2 align="left">HI 👋, I AM SYZTEM4OUR666</h2>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ###
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/jZzo_OjmxEcAAAAC/spider-lily-flower-anime.gif"  />
 </div>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###
 
@@ -34,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ###
 
 <div align="center">
@@ -49,6 +53,9 @@
   <img src="https://streak-stats.demolab.com?user=syztem4our666&locale=en&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syztem4our666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ###
 <div align="center">
