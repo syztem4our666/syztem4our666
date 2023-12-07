@@ -1,4 +1,7 @@
-![Descripción del GIF](https://media1.tenor.com/m/C7ehg7pDR4AAAAAC/aesthetic-autumn-season.gif)
+<div align="center">
+  <img src="https://media1.tenor.com/m/C7ehg7pDR4AAAAAC/aesthetic-autumn-season.gif" alt="Descripción del GIF">
+</div>
+
 
 <h3 align="center">I'm 22 years Cybersecurity Enthusiast from Spain.</h3>
 
