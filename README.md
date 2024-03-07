@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
 </div>
+<script src="https://tryhackme.com/badge/1899634"></script>
 
 ###
 
