@@ -16,17 +16,6 @@
   </a>
 </div>
 
-<div style="width: 220px; height: 50px; background-color: #343c41; border-radius: 4px; text-align: left; background-image: url(https://www.hackthebox.com/images/icon20.png); background-position: right 5px bottom 5px; background-repeat: no-repeat; margin-top: 10px;">
-    <div style="width: 40px; height: 40px; border-radius: 4px; float: left; margin-top: 5px; margin-left: 5px;">
-        <img style="width: 40px; height: 40px; border-radius: 4px;" src="https://www.hackthebox.com/storage/avatars/4b77c021050b23aa7c2bf30015d7977f.png">
-    </div>
-    <div style="float: left; height: 40px; padding-left: 5px; margin-top: 5px;">
-        <p style="font-family: 'Roboto', monospace; color: #ffffff; font-size: 12px; font-weight: bold; line-height: 12px; margin: 0; padding: 0;">syztem4our666 <span style="color: #ffffff; font-size: 11px;">Pro Hacker</span></p>
-        <p style="font-family: 'Roboto', monospace; color: #ffffff; font-size: 10px; line-height: 10px; margin: 0; padding: 0;">Rank: 383 <img src="https://www.hackthebox.com/images/screenshot.png" style="width: 10px; height: 10px;"> 627 <img src="https://www.hackthebox.com/images/star.png" style="width: 10px; height: 10px;"> 1</p>
-        <p style="font-family: 'Roboto', monospace; color: #ffffff; font-size: 10px; line-height: 10px; margin: 0; padding: 0;"><a href="https://www.hackthebox.com" style="color: #9acc14; font-size: 0.6em; text-decoration: none;">hackthebox.com</a></p>
-    </div>
-</div>
-
 
 
 ###
