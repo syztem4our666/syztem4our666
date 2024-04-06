@@ -7,7 +7,6 @@
 <h1 align="center">Hello, Im Syztem4our666 👋</h1>
 
 ###
-
 <div align="center">
   <a href="https://twitter.com/syztem4our666" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -15,7 +14,9 @@
   <a href="https://tryhackme.com/p/syztem4our666" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
-<div style="width: 220px; height: 50px; background-color: #343c41; border-radius: 4px; text-align: left; background-image: url(https://www.hackthebox.com/images/icon20.png); background-position: right 5px bottom 5px; background-repeat: no-repeat;">
+</div>
+
+<div style="width: 220px; height: 50px; background-color: #343c41; border-radius: 4px; text-align: left; background-image: url(https://www.hackthebox.com/images/icon20.png); background-position: right 5px bottom 5px; background-repeat: no-repeat; margin-top: 10px;">
     <div style="width: 40px; height: 40px; border-radius: 4px; float: left; margin-top: 5px; margin-left: 5px;">
         <img style="width: 40px; height: 40px; border-radius: 4px;" src="https://www.hackthebox.com/storage/avatars/4b77c021050b23aa7c2bf30015d7977f.png">
     </div>
@@ -25,6 +26,7 @@
         <p style="font-family: 'Roboto', monospace; color: #ffffff; font-size: 10px; line-height: 10px; margin: 0; padding: 0;"><a href="https://www.hackthebox.com" style="color: #9acc14; font-size: 0.6em; text-decoration: none;">hackthebox.com</a></p>
     </div>
 </div>
+
 
 
 ###
