@@ -28,7 +28,7 @@
 ###
 
 <p align="center">
-  <img src="/github-metrics.svg" width="550" />
+  <img src="/github-metrics.svg" width="700" />
 </p>
 
 ###
