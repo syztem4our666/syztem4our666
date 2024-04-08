@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="/github-metrics.svg" />
+  <img src="/github-metrics.svg" width="600" />
 </p>
+
 
 ###
 
