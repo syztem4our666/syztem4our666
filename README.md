@@ -27,10 +27,4 @@
 
 ###
 
-<div align="center">
-  <img height="70" src="https://web.archive.org/web/20091027075839im_/http://geocities.com/mrcrx1999/dragonbadge.gif"  />
-</div>
-
-###
-
 
