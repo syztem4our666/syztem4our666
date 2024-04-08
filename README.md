@@ -73,9 +73,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=syztem4our666&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![syztem4our666's Stats](https://github-readme-stats.vercel.app/api?username=syztem4our666&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
 ###
 <div align="center">
