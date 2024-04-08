@@ -27,15 +27,6 @@
   <img src="/github-metrics.svg" width="500" />
 </p>
 
-###
-
-
-
-###
-
-
-
-###
 
 
 
