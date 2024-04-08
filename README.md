@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JmbDhweWtjeTFmOGR1eXV3czA0bXl0b2Ywcm53MWE4Mmt5ZDkybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif"  />
+  <img height="15" src="https://web.archive.org/web/20091027102229im_/http://geocities.com/ResearchTriangle/System/6656/bluline.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hello, Im Syztem4our666 👋</h1>
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkyYng5M3dpNDJhcWxqOGhjdjU0Y2tjMWdmOWtzaHQyb200dWdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scGEXUBdf7G48/giphy.gif"  />
+</div>
+
+
 
 ###
 <div align="center">
@@ -18,7 +22,9 @@
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" height="25" alt="tryhackme logo"  />
   </a>
 </div>
+###
 
+<h1 align="center">Welcome 👋</h1>
 
 ###
 
@@ -26,7 +32,7 @@
 
 ###
 
-<p align="center">Hello! I'm Syztem4our666, hailing from Spain. I have a keen interest in cybersecurity and aspire to become a SysAdmin. This GitHub repository serves as a platform to showcase my projects, share knowledge.<br><br>- 🔭 Interests: Cybersecurity, System Administration, Networking, Penetration Testing<br>- 📚 I'm currently learning cybersecurity continuously and trying to grow in the field.</p>
+<p align="center">👨‍💻 I'm syztem4our666. I'm 23 years old and hail from Spain. <br>🔍 I’m currently learning Cyberecurity.<br> 🚩 CTF , constantly seeking to enhance my skills and learn new techniques.<br>🎯 My primary goal is to become a top-tier sysadmin and then obtain cybersecurity certifications to validate my knowledge and skills.<br><br><br>🙏 Thank you for being here !</p>
 
 ###
 
@@ -39,27 +45,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -77,7 +83,13 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=313tpfuqh6sjjlcrouziivsm4opa" alt="Alt text" />
 </div>
 
+###
 
+<div align="center">
+  <img height="15" src="https://web.archive.org/web/20091027102229im_/http://geocities.com/ResearchTriangle/System/6656/bluline.gif"  />
+</div>
+
+###
 
 
 ###
