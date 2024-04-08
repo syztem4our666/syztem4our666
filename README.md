@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats </h3>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h3 align="center">🔥   Music :</h3>
+<h3 align="center">🔥   Music </h3>
 
 ###
 <div align="center">
