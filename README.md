@@ -35,15 +35,6 @@
   <img src="/github-metrics.svg" width="500" />
 </p>
 
-
-
-<h3 align="center">🔥   Music </h3>
-
-###
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313tpfuqh6sjjlcrouziivsm4opa" alt="Alt text" />
-</div>
-
 ###
 
 
