@@ -9,14 +9,6 @@
 <h1 align="center">Welcome 👋</h1>
 
 ###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">👨‍💻 I'm syztem4our666. I'm 23 years old and hail from Spain. <br>🔍 I’m currently learning Cyberecurity.<br> 🚩 CTF , constantly seeking to enhance my skills and learn new techniques.<br>🎯 My primary goal is to become a top-tier sysadmin and then obtain cybersecurity certifications to validate my knowledge and skills.<br><br><br>🙏 Thank you for being here !</p>
-
-###
 <div align="center">
   <a href="https://twitter.com/syztem4our666" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -32,7 +24,7 @@
 ###
 
 <p align="center">
-  <img src="/github-metrics.svg" width="500" />
+  <img src="/github-metrics.svg" width="650" />
 </p>
 
 ###
