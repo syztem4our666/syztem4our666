@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 <div align="center">
   <img height="15" src="https://web.archive.org/web/20091027102229im_/http://geocities.com/ResearchTriangle/System/6656/bluline.gif"  />
 </div>
