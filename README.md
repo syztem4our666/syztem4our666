@@ -2,7 +2,6 @@
   <img height="15" src="https://web.archive.org/web/20091027102229im_/http://geocities.com/ResearchTriangle/System/6656/bluline.gif"  />
 </div>
 
-###
 
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkyYng5M3dpNDJhcWxqOGhjdjU0Y2tjMWdmOWtzaHQyb200dWdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scGEXUBdf7G48/giphy.gif"  />
