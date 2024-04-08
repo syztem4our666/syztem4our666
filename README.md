@@ -32,7 +32,7 @@
 ###
 
 <p align="center">
-  <img src="/github-metrics.svg" width="450" />
+  <img src="/github-metrics.svg" width="500" />
 </p>
 
 
