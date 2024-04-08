@@ -75,7 +75,10 @@
 
 ![syztem4our666's Stats](https://github-readme-stats.vercel.app/api?username=syztem4our666&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![syztem4our666's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syztem4our666&theme=tokyonight&hide_border=true)
-![syztem4our666's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syztem4our666&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syztem4our666&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
 
 ###
 <div align="center">
