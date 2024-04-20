@@ -494,7 +494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sec-fortress/AutoRecon</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.</div>
@@ -927,7 +927,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 16.6m out of 135m users</span>
+                                    <span class="gh">ranked 16.6m out of 133m users</span>
                                 </div>
                                 <div class="text">Published 3 public repositories</div>
                             </div>
@@ -1042,7 +1042,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.23m out of 135m users</span>
+                                    <span class="gh">ranked 2.23m out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 6 users</div>
                             </div>
@@ -1080,7 +1080,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.47m out of 202m repositories</span>
+                                    <span class="gh">ranked 2.47m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -1126,7 +1126,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.22m out of 202m repositories</span>
+                                    <span class="gh">ranked 5.22m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1178,7 +1178,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Apr 2024, 00:10:09 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2024, 01:09:43 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
