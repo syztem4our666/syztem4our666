@@ -397,7 +397,7 @@
                                         <span>starred Apr 08 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">Windows in a Docker container.</div>
+                                <div class="field description">Windows inside a Docker container.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1174,7 +1174,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 May 2024, 10:12:25 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2024, 11:11:33 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
