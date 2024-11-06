@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="20" src="https://web.archive.org/web/20091019202252im_/http://www.geocities.com/Area51/Shadowlands/4334/FanArt/Fantasy/Vajorn.gif"  />
-</div>
+
 
 ###
 
