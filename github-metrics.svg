@@ -391,7 +391,7 @@
                                         <span>starred Aug 21 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">The beautiful docs framework for Next.js. Alternative to Nextra</div>
+                                <div class="field description">The beautiful docs framework with Next.js. Alternative to Nextra</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1123,7 +1123,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.44m out of 216m repositories</span>
+                                    <span class="gh">ranked 2.44m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -1175,7 +1175,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2024, 15:12:19 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2024, 16:13:26 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
