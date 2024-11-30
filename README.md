@@ -2,7 +2,9 @@
 
 ###
 
-<div style="padding-top:56.042%;position:relative;"><iframe src="https://gifer.com/embed/D9gM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ5NGVpeTJ2aTFhZmsxY3Nuc2JhazZqdnF3bTdoMjAwYThyZDZjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MNJFsrDCJUQa05VAR/giphy.webp" alt="GIF">
+</p>
 
 ###
 
