@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <iframe src="https://gifer.com/embed/D9gM" width=480 height=269.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-</div>
+<div style="padding-top:56.042%;position:relative;"><iframe src="https://gifer.com/embed/D9gM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 ###
 
