@@ -223,7 +223,7 @@
                     <rect mask="url(#languages-bar)" x="826.2795265785228" y="0" width="63.81990059448397" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="890.0994271730067" y="0" width="19.862651463470097" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="909.9620786364768" y="0" width="6.389760582139493" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="916.3518392186164" y="0" width="3.6481607813836643" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="916.3518392186164" y="0" width="3.6481607813836643" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -252,7 +252,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2315,7 +2315,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.46m out of 229m repositories</span>
+                                    <span class="gh">ranked 2.46m out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -2367,7 +2367,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 13:49:59 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 14:33:52 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
