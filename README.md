@@ -24,8 +24,9 @@
 </div>
 <br>
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="TryHackMe Badge" />
 </div>
+
 
 ###
 <img src="/github-metrics.svg" alt="Metrics" width="120%">
