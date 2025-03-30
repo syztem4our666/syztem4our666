@@ -1352,7 +1352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xjpuff/reverse_shell_splunk</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple splunk package for obtaining reverse shells on both Windows and most *nix systems.</div>
@@ -2140,7 +2140,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Mar 2025, 20:30:51 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2025, 21:18:27 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
