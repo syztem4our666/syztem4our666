@@ -8,8 +8,8 @@
   <br/>
 
   <p align="center">
-    <img src="https://www.hackthebox.com/badge/image/1482945" alt="HTB Badge" width="180" style="margin-right: 10px;" />
-    <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="THM Badge" width="180" />
+    <img src="https://www.hackthebox.com/badge/image/1482945" alt="HTB Badge" width="250" style="margin-right: 10px;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="THM Badge" width="250" />
   </p>
 
   <br/>
