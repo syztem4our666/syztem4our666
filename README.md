@@ -1,3 +1,4 @@
+---
 <div align="center">
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5qbXEwaG56bXpmOG92eGlkMHl2MG1ycjJiamFwcXE2YWFqd2dwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vfg92uVyrc3aU/giphy.gif" alt="GIF" />
@@ -5,7 +6,7 @@
   <h4>Hello! I’m someone who loves <strong>cybersecurity</strong> and <strong>sysadmin</strong>, always active on <strong>HTB</strong> and <strong>TryHackMe</strong>, and constantly learning. Sometimes I build, other times I destroy.</h4>
 
   <br/>
-
+---
   <h4>My Skill Set</h4>
 
   <h4>Mostly I work with</h4>
@@ -44,7 +45,7 @@
       <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
     </a>
   </p>
-
+---
   <br/>
 
   <img src="/github-metrics.svg" alt="Metrics" />
