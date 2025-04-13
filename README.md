@@ -7,10 +7,17 @@
 
   <br/>
 
-  <p align="center">
-    <img src="https://www.hackthebox.com/badge/image/1482945" alt="HTB Badge" width="300" style="margin-right: 10px;" />
-    <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="THM Badge" width="280" />
-  </p>
+  <table align="center" style="border-collapse: collapse; border: 1px solid #ccc;">
+  <tr>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://www.hackthebox.com/badge/image/1482945" alt="HTB Badge" width="260">
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="THM Badge" width="260">
+    </td>
+  </tr>
+</table>
+
 
   <br/>
   
