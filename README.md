@@ -10,7 +10,6 @@
   <h4>My Skill Set</h4>
 
   <h4>Mostly I work with</h4>
-
   <p>
     <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 10px"/></a>
