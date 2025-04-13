@@ -1,4 +1,4 @@
----
+
 <div align="center">
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5qbXEwaG56bXpmOG92eGlkMHl2MG1ycjJiamFwcXE2YWFqd2dwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vfg92uVyrc3aU/giphy.gif" alt="GIF" />
@@ -49,4 +49,3 @@
   <img src="/github-metrics.svg" alt="Metrics" />
 
 </div>
----
