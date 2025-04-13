@@ -6,19 +6,7 @@
   <h3>Hello! I’m someone who loves <strong>cybersecurity</strong> and <strong>sysadmin</strong>, always active on <strong>HTB</strong> and <strong>TryHackMe</strong>, and constantly learning. Sometimes I build, other times I destroy.</h3>
 
   <br/>
-
-  <table align="center" style="border-collapse: collapse; border: 1px solid #ccc;">
-  <tr>
-    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
-      <img src="https://www.hackthebox.com/badge/image/1482945" alt="HTB Badge" width="260">
-    </td>
-    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="THM Badge" width="260">
-    </td>
-  </tr>
-</table>
-
-
+  
   <br/>
   
   <h4>My Skill Set</h4>
@@ -58,6 +46,16 @@
       <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
     </a>
   </p>
+  <table align="center" style="border-collapse: collapse; border: 1px solid #ccc;">
+  <tr>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://www.hackthebox.com/badge/image/1482945" alt="HTB Badge" width="260">
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="THM Badge" width="260">
+    </td>
+  </tr>
+</table>
   <br/>
 
   <img src="/github-metrics.svg" alt="Metrics" />
