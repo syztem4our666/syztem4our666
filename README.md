@@ -44,9 +44,9 @@
       <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
     </a>
   </p>
----
   <br/>
 
   <img src="/github-metrics.svg" alt="Metrics" />
 
 </div>
+---
