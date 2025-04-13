@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5qbXEwaG56bXpmOG92eGlkMHl2MG1ycjJiamFwcXE2YWFqd2dwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vfg92uVyrc3aU/giphy.gif" alt="GIF" />
+  <img src="https://user-images.githubusercontent.com/51442719/175040415-d4e67728-19e9-498d-918b-48fd3beac49d.png" alt="banner" />
 
   <h3>Hello! I’m someone who loves <strong>cybersecurity</strong> and <strong>sysadmin</strong>, always active on <strong>HTB</strong> and <strong>TryHackMe</strong>, and constantly learning. Sometimes I build, other times I destroy.</h3>
 
