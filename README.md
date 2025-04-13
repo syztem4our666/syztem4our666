@@ -7,7 +7,10 @@
 
   <br/>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="thm-badge" />
+  <p>
+    <img src="https://www.hackthebox.com/badge/image/1482945" alt="HTB Badge" height="120" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="THM Badge" height="120" />
+  </p>
 
   <br/>
   
