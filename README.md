@@ -4,11 +4,7 @@
   <img src="https://user-images.githubusercontent.com/51442719/175040415-d4e67728-19e9-498d-918b-48fd3beac49d.png" alt="banner" />
 
   <h3>Hello! I’m someone who loves <strong>cybersecurity</strong> and <strong>sysadmin</strong>, always active on <strong>HTB</strong> and <strong>TryHackMe</strong>, and constantly learning. Sometimes I build, other times I destroy.</h3>
-
-  <br/>
-  
-  <br/>
-  
+  <br/>  
   <h4>My Skill Set</h4>
 
   <h4>Mostly I work with</h4>
@@ -19,17 +15,6 @@
     <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" style="margin: 10px"/></a>
     <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px"/></a>
   </p>
-
-  <h4>Planning to hit hard on..</h4>
-
-  <p>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" style="margin: 10px"/></a>
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" style="margin: 10px"/></a>
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" style="margin: 10px"/></a>
-  </p>
-
-  <br/>
-
   <h4>Connect with me</h4>
 
   <p>
@@ -56,7 +41,6 @@
     </td>
   </tr>
 </table>
-  <br/>
 
   <img src="/github-metrics.svg" alt="Metrics" />
 
