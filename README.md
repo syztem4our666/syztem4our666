@@ -3,7 +3,7 @@
 
   <img src="https://user-images.githubusercontent.com/51442719/175040415-d4e67728-19e9-498d-918b-48fd3beac49d.png" alt="banner" />
 
-  <h3>Hello! I’m someone who loves <strong>cybersecurity</strong> and <strong>sysadmin</strong>, always active on <strong>HTB</strong> and <strong>TryHackMe</strong>, and constantly learning. Sometimes I build, other times I destroy.</h3>
+  <h3>Hello! I’m someone who loves <strong>cybersecurity</strong> and <strong>sysadmin</strong>, always active on <strong>HackTheBox</strong> and <strong>TryHackMe</strong>, and constantly learning. Sometimes I build, other times I destroy.</h3>
   <br/>  
   <h4>My Skill Set</h4>
 
