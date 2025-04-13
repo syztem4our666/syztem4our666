@@ -6,6 +6,10 @@
   <h3>Hello! I’m someone who loves <strong>cybersecurity</strong> and <strong>sysadmin</strong>, always active on <strong>HTB</strong> and <strong>TryHackMe</strong>, and constantly learning. Sometimes I build, other times I destroy.</h3>
 
   <br/>
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/syztem4our666.png" alt="thm-badge" />
+
+  <br/>
   
   <h4>My Skill Set</h4>
 
