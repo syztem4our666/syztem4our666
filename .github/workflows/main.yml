@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: @syztem4our666
+          user: syztem4our666
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
