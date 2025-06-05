@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>henrygd/beszel</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight server monitoring hub with historical data, docker stats, and alerts.</div>
@@ -2581,7 +2581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siyuan-note/siyuan</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</div>
@@ -2932,7 +2932,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jun 2025, 21:14:12 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2025, 22:17:26 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
