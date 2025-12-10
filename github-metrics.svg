@@ -2871,7 +2871,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Chleba/netscanner</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terminal Network scanner &amp; diagnostic tool with modern TUI</div>
@@ -2924,7 +2924,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheRealFREDP3D/HTB-MCP-Client</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Full-featured Textual-based TUI client for the HackTheBox MCP server</div>
@@ -3215,7 +3215,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Dec 2025, 19:29:36 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2025, 20:17:33 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
