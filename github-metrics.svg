@@ -2377,7 +2377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mandiant/commando-vm</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</div>
@@ -2430,7 +2430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lyogavin/airllm</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AirLLM 70B inference with single 4GB GPU</div>
@@ -2536,7 +2536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RSSNext/Folo</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧡 Folo is the AI Reader</div>
@@ -2825,7 +2825,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jan 2026, 10:41:33 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2026, 11:36:18 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
